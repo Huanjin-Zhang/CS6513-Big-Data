@@ -5,3 +5,5 @@ Covid Data: https://data.cityofnewyork.us/Health/COVID-19-Daily-Counts-of-Cases-
 Turnstile Usage 2020: https://data.ny.gov/Transportation/Turnstile-Usage-Data-2020/py8k-a8wg
 
 Turnstile Usage 2019: https://data.ny.gov/Transportation/Turnstile-Usage-Data-2019/xfn5-qji9
+
+MTA Stations: http://web.mta.info/developers/data/nyct/subway/Stations.csv
