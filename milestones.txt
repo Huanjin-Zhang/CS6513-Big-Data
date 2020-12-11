@@ -1,3 +1,3 @@
-11.24 - 11.30
-12.01 - 12.07
-12.08 - 12.11
+11.24 - 11.30 Data Processing, Data Cleaning, Data Integration
+12.01 - 12.07 Data Analysis, Data Visualization
+12.08 - 12.11 Writing Report
